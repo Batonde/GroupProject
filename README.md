@@ -2,13 +2,13 @@
 
 Cmpe 331 Group project Group ETA
 
-Batuhan Önde
+Batuhan Önde.
 
-Emel Doğru
+Emel Doğru.
 
-Emin Yavaş
+Emin Yavaş.
 
-Aleyna Buse Özel
+Aleyna Buse Özel.
 
 We want to create a electronic meter with using arduino
 
