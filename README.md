@@ -8,7 +8,7 @@ Emel Doğru
 
 Emin Yavaş
 
-Aleyna Buse Özel:116200149
+Aleyna Buse Özel
 
 We want to create a electronic meter with using arduino
 
